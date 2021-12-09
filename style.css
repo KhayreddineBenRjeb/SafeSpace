@@ -1,0 +1,56 @@
+ #LOGO {
+    width: 100px;
+    height: 100px;
+}
+#head{
+    display:flex;
+}
+
+body {
+    background-image:url(./TIMBGV.jpg)
+}
+#Title{
+    font-size: 50px;
+    color: #000000;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.ourSite{
+ background-color: rgba(255, 255, 255, 0.822); 
+ width: 540px;
+ height: 200px; 
+ border: solid; 
+}
+
+
+#textarea {
+    width: 810px;
+    height: 150px; 
+       font-size: 0.9em;
+       justify-items: center;
+              border:none;    
+              padding: 10px;    
+              resize: none;
+              border: solid;
+}
+.writeHere {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.publish{
+    display: flex;
+    padding-left: 755px;
+    padding-top: 20px;
+    justify-content: center;  
+}
+.illPushH{
+    background-color:white ;
+    width: 820px;
+    height: 500px; 
+    position:absolute;
+    left: 650px;
+    right: 70px;
+    border: solid;
+    
+}
